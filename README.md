@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shammo1
+- 👀 I’m interested in python/django framework
+- 🌱 I’m currently learning CP
+- 💞️ I’m looking to collaborate on Some Projects
+- 📫 How to reach me LINKEDIN: https://www.linkedin.com/in/shammo-saha-47ab37266/
