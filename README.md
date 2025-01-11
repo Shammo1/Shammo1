@@ -5,7 +5,7 @@
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with C, C++, DS, Algorithm <br /> OOP, SQL, Django, ML etc.
-- 🚀 &nbsp; I’m currently learning ML.
+- 🚀 &nbsp; I’m currently learning CP.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]().
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/). -->
@@ -16,6 +16,6 @@
 </p>
 
 <p align='center'>
-  <a href=""><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfmrfXkrNFlLwFQjSWWmNlPfrgLSvrCGqXwtMnDWxbgjHqBgTPHhWqvPkPKccdVwmLJmRL"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
