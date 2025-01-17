@@ -16,6 +16,6 @@
 </p>
 
 <p align='center'>
-  <a href="mailto:asifmohammedsifat38@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-bad" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shammo-saha-47ab37266/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-bad" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
