@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shammo</h1>
-<!-- header start -->
 <h3 align="center">Competitive programmer ll Tech Enthusiast</h3>
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with C, C++, DS, Algorithm <br /> OOP, SQL, Django etc.
-- 🚀 &nbsp; I’m currently learning CP.
+- 🛠 &nbsp; I’m currently working with C, C++,DSA,SQL.
+- 🚀 &nbsp; I’m currently learning Python,Django etc.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]().
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/). -->
