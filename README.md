@@ -3,7 +3,7 @@
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with C, C++,DSA,SQL.
+- 🛠 &nbsp; I’m currently working with C, C++,DSA,MySQL.
 - 🚀 &nbsp; I’m currently learning Python,Django etc.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github]().
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
